@@ -32,7 +32,7 @@ A api https://viacep.com.br retorna um json contendo as seguintes informações 
 ## Funcionalidade
 
 - [x] Busca do Cep
-- [ ] Limpardados
+- [x] Limpardados
 - [ ] melhorar o design
 - [ ] Responsividade
 
