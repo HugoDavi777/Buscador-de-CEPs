@@ -5,7 +5,7 @@ https://viacep.com.br
 
 ## Design do projeto
 
-![alt text](image.png)
+![alt text](![Buscador_Ceps](https://github.com/user-attachments/assets/c6b3a21f-ce38-4cd3-8bdf-c92007879ee7))
 
 ## API ultilizada
 
